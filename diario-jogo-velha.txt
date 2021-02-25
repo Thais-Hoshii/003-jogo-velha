@@ -1,0 +1,11 @@
+12/02/2021:
+
+- início do projeto 003: jogo da velha
+
+- criação dos arquivos 'projeto-jogo-velha.odt', tarefas-jogo-velha.txt', 'diario-jogo-velha.txt', 'jogo-velha.html' e 'jogo-velha.css'
+
+- tarefas de 1 a 3 concluídas (ver 'tarefas-jogo-velha.txt')
+
+13/02/2021:
+
+- tarefas de 4 a 5 concluídas (ver 'tarefas-jogo-velha.txt')

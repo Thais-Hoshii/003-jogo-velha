@@ -1,0 +1,40 @@
+ok    Criar a base do documento HTML.
+ok    Criar a base do documento CSS.
+ok    Fazer referência ao documento “reset.css” dentro do HTML.
+ok    Criar os ícones do jogo.
+ok    Criar o fundo do jogo.
+Criar a tela de início com um botão de iniciar (ocultar nas próximas tarefas).
+Criar a grade do jogo.
+Criar a mensagem de turno.
+Criar a pontuação.
+Criar o botão de zerar.
+Programar o botão de zerar para mostrar a tela de confirmação.
+Programar uma transição para o botão de iniciar (deixar a mostra).
+Testar o tempo de transição da tela inicial ao jogo.
+Programar a tela de confirmação para aparecer sobre a grade.
+Programar os botões da tela de confirmação.
+Testar se a tela de confirmação bloqueia o uso da grade.
+Programar o uso dos ícones.
+Programar o jogo para impedir um quadrado de ser preenchido duas vezes na mesma jogada.
+Programar o jogo para impedir que um dos jogadores preencha mais de um quadrado no mesmo turno.
+Testar as limitações dos quadrados.
+Programar o computador para procurar os quadrados não preenchidos.
+Programar o computador para selecionar aleatoriamente um dos quadrados não preenchidos.
+Testar se o computador seleciona um quadrado não preenchido.
+Programar o caso de vitória quando 3 ícones iguais alinharem.
+Programar o caso de empate quando todos os quadrados forem preenchidos.
+Testar condições de vitória e empate.
+Programar a mensagem de vitória para mostrar quem venceu ou se houve empate.
+Programar a transição da mensagem de vitória
+Programar a pontuação.
+Programar a tela de confirmação para limpar pontuação e grade.
+Testar o sistema de pontuação.
+Testar o jogo por inteiro.
+
+
+
+
+
+
+
+
