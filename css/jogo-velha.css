@@ -2,6 +2,21 @@ body {
     background-color: rgb(104, 182, 184);
 }
 
+@media only screen and (max-height: 768px) and (orientation: landscape) {
+
+    /* Para parar rotação em dispositivos moveis na horizontal */
+    /* Código obtido de https://css-tricks.com/snippets/css/orientation-lock/ */
+    body {
+        width: 100vh;
+        transform: rotate(-90deg);
+        transform-origin: left top;
+        overflow-x: hidden;
+        position: absolute;
+        top: 100%;
+        left: 0;
+    }
+}
+
 @media only screen and (min-width: 600px) {
     
 }
