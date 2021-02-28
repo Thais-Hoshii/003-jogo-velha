@@ -9,3 +9,9 @@
 13/02/2021:
 
 - tarefas de 4 a 5 concluídas (ver 'tarefas-jogo-velha.txt')
+
+28/02/2021:
+
+- atualização dos arquivos 'tarefas-jogo-velha.txt' e 'projeto-jogo-velha.odt'
+
+- tarefas de 6 a 8 concluídas (ver 'tarefas-jogo-velha.txt')
