@@ -14,6 +14,9 @@
 :root {
     --cor-fundo: hsl(182, 38%, 63%);
     --cor-claro: hsl(30, 5%, 95%);
+    --cor-botao: hsl(138, 47%, 46%);
+    --cor-botao-hover: hsl(138, 51%, 61%);
+    --cor-botao-press: hsl(138, 63%, 34%);
 }
 
 body {
@@ -31,9 +34,30 @@ header h1 {
 }
 
 #intro {
-    padding: .5rem;
+    padding: .7rem;
     margin: 0 1rem;
     background-color: var(--cor-claro);
+    border-radius: 6px;
+    max-width: 800px;
+}
+
+#botao-inicio {
+    display: block;
+    background-color: var(--cor-botao);
+    border-radius: 6px;
+    font-size: 14pt;
+    padding: .4rem 1rem;
+    margin: 1rem auto .5rem;
+    text-transform: uppercase;
+    cursor: pointer;
+}
+
+#botao-inicio:hover {
+    background-color: var(--cor-botao-hover);
+}
+
+#botao-inicio:active {
+    background-color: var(--cor-botao-press);
 }
 
 @media only screen and (max-height: 768px) and (orientation: landscape) {
