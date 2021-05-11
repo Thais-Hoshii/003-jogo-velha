@@ -6,8 +6,8 @@ ok    Criar o fundo do jogo.
 ok    Criar a tela de início com um botão de iniciar.
 ok    Preparar o CSS para ser responsivo.
 ok    Impedir rotação da tela em modo paisagem para dispositivos móveis.
-Melhorar a aparência da tela de início.
-Programar o botão de iniciar para remover a tela de início.
+ok    Melhorar a aparência da tela de início.
+ok    Programar o botão de iniciar para remover a tela de início.
 Criar a grade do jogo.
 Criar a mensagem de turno.
 Criar a pontuação.
